@@ -65,16 +65,9 @@ Successful data integration ensures that relevant information is combined correc
    ```bash
    git clone https://github.com/kleptsoved/data_analysis_python.git
 2. Open Jupyter Notebook:
-   '''bash
+   ```bash
     jupyter notebook
 3. Navigate through each notebook and execute the code cells.
-
----
-
-## 💡 Why This Repository Matters
-- Demonstrates **real-world data analysis skills**.  
-- Showcases **clean, well-documented Python code**.  
-- Helps potential employers understand your **problem-solving approach**.  
 
 ---
 
